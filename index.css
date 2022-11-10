@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.flex-box{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    gap: 1%;
+}
+.card-1{
+    width: 24%;
+    height: fit-content;
+
+}
+.img{
+    width: 100%;
+    height: fit-content;
+}
+.img img{
+    width: 100%;
+}
+.con{
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+    padding: 0px;
+    text-align: center;
+    font-size: .2em;
+}
